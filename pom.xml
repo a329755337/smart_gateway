@@ -20,6 +20,8 @@
 
         <spring-boot.version>2.7.2</spring-boot.version>
         <mybatis-starter.version>2.2.2</mybatis-starter.version>
+        <spring-cloud.version>Hoxton.SR12</spring-cloud.version>
+        <spring-cloud-alibaba.version>2.2.8.RELEASE</spring-cloud-alibaba.version>
     </properties>
 
     <modules>
